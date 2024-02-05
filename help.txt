@@ -1,0 +1,15 @@
+ست وب هوک
+
+https://api.telegram.org/botTOKEN/setwebhook?url=DOMAIN
+
+هاست مخصوص ربات تلگرم
+https://tikweb.ir/cp/store/telegram-bot-hosting
+
+سورس ربات تلگرامی فروش کانفیگ :
+asrnovin_ir
+
+ربات بات فادر
+@BotFather
+
+نمایش ایدی عددی
+@ShowChatIdBot
